@@ -2,7 +2,7 @@ name: Pages
 
 on:
   push:
-分支:
+branch:
       - main # default branch
 
 jobs:
